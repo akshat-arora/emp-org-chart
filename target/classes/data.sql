@@ -1,0 +1,7 @@
+insert into Relation values ( 1,'Director',10)
+insert into Relation values ( 2,'Manager',20)
+insert into Relation values ( 3,'Lead',30)
+insert into Relation values ( 4,'Developer',40)
+insert into Relation values ( 5,'DevOps',40)
+insert into Relation values ( 6,'QA',40)
+insert into Relation values ( 7,'Intern',50)

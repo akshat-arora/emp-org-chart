@@ -1,0 +1,12 @@
+com\initializer\Employeedetails\ControlApi\Delete.class
+com\initializer\Employeedetails\ControllerPackage\Controller.class
+com\initializer\Employeedetails\Repositories\RelationRepo.class
+com\initializer\Employeedetails\Tables\Employee.class
+com\initializer\Employeedetails\MessageUtil\MessageUtil.class
+com\initializer\Employeedetails\Repositories\EmployeeRepo.class
+com\initializer\Employeedetails\ControlApi\Post.class
+com\initializer\Employeedetails\EmployeeDetailsApplication.class
+com\initializer\Employeedetails\ControlApi\Put.class
+com\initializer\Employeedetails\Tables\Relation.class
+com\initializer\Employeedetails\Tables\Info.class
+com\initializer\Employeedetails\ControlApi\Get.class
